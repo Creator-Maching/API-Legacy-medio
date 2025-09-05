@@ -12,8 +12,6 @@ Descubra os Pokémons mais poderosos, veja suas imagens e explore suas caracter�
 
 🔎 Busca fácil para encontrar seu Pokémon favorito.
 
-📜 Lista paginada, navegando entre várias páginas de Pokémons.
-
 ⚡ Totalmente interativo e feito com HTML, CSS e JavaScript.
 
 🎨 Tecnologias Utilizadas
