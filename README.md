@@ -6,7 +6,10 @@ Uma jornada interativa pelo mundo dos Pokémons do tipo Dragão! 🌟
 
 Descubra os Pokémons mais poderosos, veja suas imagens e explore suas características direto do universo Pokémon!
 
-✨ Funcionalidades
+🐉 Objetivo:
+Mostrar minha habilidade de consumir uma API e revelar no html em uma tabela com as imagens
+
+✨ Funcionalidades:
 
 🖼️ Exibição de imagens e nomes de todos os Pokémons do tipo Dragão.
 
@@ -14,7 +17,7 @@ Descubra os Pokémons mais poderosos, veja suas imagens e explore suas caracter�
 
 ⚡ Totalmente interativo e feito com HTML, CSS e JavaScript.
 
-🎨 Tecnologias Utilizadas
+🎨 Tecnologias Utilizadas:
 
 HTML5
 
