@@ -25,7 +25,7 @@ CSS3
 
 JavaScript (DOM + Fetch API)
 
-Bootrap
+Boostrap
 
 🌐 Veja online
 
